@@ -1,0 +1,1184 @@
+{
+    "cars": [
+        {
+            "id": "mg-zs-2024-1.5l-215hp-hybrid-automatic-54108-rand123",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 30000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5t-170hp-cvt-54107-rand456",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 25000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-110hp-cvt-54106-rand789",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 22000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-197hp-hybrid-automatic-54105-rand101",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 32000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-60.22-kwh-218hp-54104-rand112",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 40000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-49.52-kwh-218hp-54103-rand131",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 35000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-x-pro-2.5-t-gdi-281hp-4wd-automatic-54102-rand142",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f111/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 50000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-4wd-automatic-54101-rand153",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 45000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-automatic-54100-rand164",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 42000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.4-95hp-54099-rand175",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.6-multijet-130hp-54098-rand186",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.3-multijet-95hp-54097-rand197",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 22000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.0-turbo-100hp-54096-rand208",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-2.0t-1306hp-plug-in-hybrid-e4-54095-rand219",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 120000,
+            "fuel_type": "Plug-in Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-135.5-kwh-1306hp-electric-e4-54094-rand230",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 140000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-116hp-54093-rand241",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 26000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-mg3-iii-1.5-116hp-54092-rand252",
+            "title": "MG MG3 III",
+            "image": "https://www.auto-data.net/images/f97/MG-MG3-III.jpg",
+            "brand": "MG",
+            "price": 18000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-start-stop-7-seat-54091-rand263",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.4-t-jet-120hp-natural-power-cng-54090-rand274",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 27000,
+            "fuel_type": "CNG",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-dualogic-54089-rand285",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 26000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "mg-zs-2024-1.5l-215hp-hybrid-automatic-54108-rand296",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 30000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5t-170hp-cvt-54107-rand307",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 25000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-110hp-cvt-54106-rand318",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 22000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-197hp-hybrid-automatic-54105-rand329",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 32000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-60.22-kwh-218hp-54104-rand340",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 40000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-49.52-kwh-218hp-54103-rand351",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 35000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-x-pro-2.5-t-gdi-281hp-4wd-automatic-54102-rand362",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f111/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 50000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-4wd-automatic-54101-rand373",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 45000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-automatic-54100-rand384",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 42000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.4-95hp-54099-rand395",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.6-multijet-130hp-54098-rand406",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.3-multijet-95hp-54097-rand417",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 22000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.0-turbo-100hp-54096-rand428",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-2.0t-1306hp-plug-in-hybrid-e4-54095-rand439",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 120000,
+            "fuel_type": "Plug-in Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-135.5-kwh-1306hp-electric-e4-54094-rand450",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 140000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-116hp-54093-rand461",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 26000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-mg3-iii-1.5-116hp-54092-rand472",
+            "title": "MG MG3 III",
+            "image": "https://www.auto-data.net/images/f97/MG-MG3-III.jpg",
+            "brand": "MG",
+            "price": 18000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-start-stop-7-seat-54091-rand483",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.4-t-jet-120hp-natural-power-cng-54090-rand494",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 27000,
+            "fuel_type": "CNG",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-dualogic-54089-rand505",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 26000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "mg-zs-2024-1.5l-215hp-hybrid-automatic-54108-rand516",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 30000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5t-170hp-cvt-54107-rand527",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 25000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-110hp-cvt-54106-rand538",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 22000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-197hp-hybrid-automatic-54105-rand549",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 32000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-60.22-kwh-218hp-54104-rand560",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 40000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-49.52-kwh-218hp-54103-rand571",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 35000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-x-pro-2.5-t-gdi-281hp-4wd-automatic-54102-rand582",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f111/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 50000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-4wd-automatic-54101-rand593",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 45000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-automatic-54100-rand604",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 42000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.4-95hp-54099-rand615",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.6-multijet-130hp-54098-rand626",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.3-multijet-95hp-54097-rand637",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 22000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.0-turbo-100hp-54096-rand648",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-2.0t-1306hp-plug-in-hybrid-e4-54095-rand659",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 120000,
+            "fuel_type": "Plug-in Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-135.5-kwh-1306hp-electric-e4-54094-rand670",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 140000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-116hp-54093-rand681",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 26000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-mg3-iii-1.5-116hp-54092-rand692",
+            "title": "MG MG3 III",
+            "image": "https://www.auto-data.net/images/f97/MG-MG3-III.jpg",
+            "brand": "MG",
+            "price": 18000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-start-stop-7-seat-54091-rand703",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.4-t-jet-120hp-natural-power-cng-54090-rand714",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 27000,
+            "fuel_type": "CNG",
+            "seating_capacity": 7
+        },
+        {
+            "id": "mg-zs-2024-1.5t-170hp-cvt-54107-rand456",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 25000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-110hp-cvt-54106-rand789",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 22000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-197hp-hybrid-automatic-54105-rand101",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 32000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-60.22-kwh-218hp-54104-rand112",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 40000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-49.52-kwh-218hp-54103-rand131",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 35000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-x-pro-2.5-t-gdi-281hp-4wd-automatic-54102-rand142",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f111/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 50000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-4wd-automatic-54101-rand153",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 45000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-automatic-54100-rand164",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 42000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.4-95hp-54099-rand175",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.6-multijet-130hp-54098-rand186",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.3-multijet-95hp-54097-rand197",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 22000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.0-turbo-100hp-54096-rand208",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-2.0t-1306hp-plug-in-hybrid-e4-54095-rand219",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 120000,
+            "fuel_type": "Plug-in Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-135.5-kwh-1306hp-electric-e4-54094-rand230",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 140000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-116hp-54093-rand241",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 26000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-mg3-iii-1.5-116hp-54092-rand252",
+            "title": "MG MG3 III",
+            "image": "https://www.auto-data.net/images/f97/MG-MG3-III.jpg",
+            "brand": "MG",
+            "price": 18000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-start-stop-7-seat-54091-rand263",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.4-t-jet-120hp-natural-power-cng-54090-rand274",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 27000,
+            "fuel_type": "CNG",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-dualogic-54089-rand285",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 26000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "mg-zs-2024-1.5l-215hp-hybrid-automatic-54108-rand296",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 30000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5t-170hp-cvt-54107-rand307",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 25000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-110hp-cvt-54106-rand318",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 22000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-197hp-hybrid-automatic-54105-rand329",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 32000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-60.22-kwh-218hp-54104-rand340",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 40000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-49.52-kwh-218hp-54103-rand351",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 35000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-x-pro-2.5-t-gdi-281hp-4wd-automatic-54102-rand362",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f111/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 50000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-4wd-automatic-54101-rand373",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 45000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-automatic-54100-rand384",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 42000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.4-95hp-54099-rand395",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.6-multijet-130hp-54098-rand406",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.3-multijet-95hp-54097-rand417",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 22000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.0-turbo-100hp-54096-rand428",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-2.0t-1306hp-plug-in-hybrid-e4-54095-rand439",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 120000,
+            "fuel_type": "Plug-in Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-135.5-kwh-1306hp-electric-e4-54094-rand450",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 140000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-116hp-54093-rand461",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 26000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-mg3-iii-1.5-116hp-54092-rand472",
+            "title": "MG MG3 III",
+            "image": "https://www.auto-data.net/images/f97/MG-MG3-III.jpg",
+            "brand": "MG",
+            "price": 18000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-start-stop-7-seat-54091-rand483",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.4-t-jet-120hp-natural-power-cng-54090-rand494",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 27000,
+            "fuel_type": "CNG",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-dualogic-54089-rand505",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 26000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "mg-zs-2024-1.5l-215hp-hybrid-automatic-54108-rand516",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 30000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5t-170hp-cvt-54107-rand527",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 25000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-110hp-cvt-54106-rand538",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 22000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-197hp-hybrid-automatic-54105-rand549",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 32000,
+            "fuel_type": "Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-60.22-kwh-218hp-54104-rand560",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 40000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "proton-e.mas-7-49.52-kwh-218hp-54103-rand571",
+            "title": "Proton e.MAS 7",
+            "image": "https://www.auto-data.net/images/f79/Proton-e.MAS-7.jpg",
+            "brand": "Proton",
+            "price": 35000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-x-pro-2.5-t-gdi-281hp-4wd-automatic-54102-rand582",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f111/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 50000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-4wd-automatic-54101-rand593",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 45000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "kia-tasman-double-cab-2.5-t-gdi-281hp-automatic-54100-rand604",
+            "title": "Kia Tasman Double Cab",
+            "image": "https://www.auto-data.net/images/f74/Kia-Tasman-Double-Cab.jpg",
+            "brand": "Kia",
+            "price": 42000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.4-95hp-54099-rand615",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.6-multijet-130hp-54098-rand626",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.3-multijet-95hp-54097-rand637",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 22000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-tipo-356-facelift-2020-1.0-turbo-100hp-54096-rand648",
+            "title": "Fiat Tipo (356, facelift 2020)",
+            "image": "https://www.auto-data.net/images/f91/Fiat-Tipo-356-facelift-2020.jpg",
+            "brand": "Fiat",
+            "price": 20000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-2.0t-1306hp-plug-in-hybrid-e4-54095-rand659",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 120000,
+            "fuel_type": "Plug-in Hybrid",
+            "seating_capacity": 5
+        },
+        {
+            "id": "yangwang-u7-135.5-kwh-1306hp-electric-e4-54094-rand670",
+            "title": "Yangwang U7",
+            "image": "https://www.auto-data.net/images/f53/Yangwang-U7.jpg",
+            "brand": "Yangwang",
+            "price": 140000,
+            "fuel_type": "Electric",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-zs-2024-1.5l-116hp-54093-rand681",
+            "title": "MG ZS (2024)",
+            "image": "https://www.auto-data.net/images/f121/MG-ZS-2024.jpg",
+            "brand": "MG",
+            "price": 26000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "mg-mg3-iii-1.5-116hp-54092-rand692",
+            "title": "MG MG3 III",
+            "image": "https://www.auto-data.net/images/f97/MG-MG3-III.jpg",
+            "brand": "MG",
+            "price": 18000,
+            "fuel_type": "Petrol",
+            "seating_capacity": 5
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.6-multijet-90hp-start-stop-7-seat-54091-rand703",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 25000,
+            "fuel_type": "Diesel",
+            "seating_capacity": 7
+        },
+        {
+            "id": "fiat-doblo-ii-263-1.4-t-jet-120hp-natural-power-cng-54090-rand714",
+            "title": "Fiat Doblo II (263)",
+            "image": "https://www.auto-data.net/images/f42/Fiat-Doblo-II-263.jpg",
+            "brand": "Fiat",
+            "price": 27000,
+            "fuel_type": "CNG",
+            "seating_capacity": 7
+        }
+    ],
+    "brands": [
+        {
+            "id": "mg",
+            "name": "MG",
+            "image": "https://www.auto-data.net/img/logos/MG.png"
+        },
+        {
+            "id": "proton",
+            "name": "Proton",
+            "image": "https://www.auto-data.net/img/logos/Proton.png"
+        },
+        {
+            "id": "fiat",
+            "name": "Fiat",
+            "image": "https://www.auto-data.net/img/logos/Fiat.png"
+        },
+        {
+            "id": "yangwang",
+            "name": "Yangwang",
+            "image": "https://www.auto-data.net/img/logos/Yangwang.png"
+        },
+        {
+            "id": "kia",
+            "name": "Kia",
+            "image": "https://www.auto-data.net/img/logos/Kia.png"
+        }
+    ],
+    "price-range": [
+        {
+            "name": "0-10000",
+            "minPrice": 0,
+            "maxPrice": 10000
+        },
+        {
+            "name": "10000-20000",
+            "minPrice": 10000,
+            "maxPrice": 20000
+        },
+        {
+            "name": "20000-30000",
+            "minPrice": 20000,
+            "maxPrice": 30000
+        },
+        {
+            "name": "30000-40000",
+            "minPrice": 30000,
+            "maxPrice": 40000
+        },
+        {
+            "name": "40000-50000",
+            "minPrice": 40000,
+            "maxPrice": 50000
+        },
+        {
+            "name": "50000-60000",
+            "minPrice": 50000,
+            "maxPrice": 60000
+        },
+        {
+            "name": "60000-70000",
+            "minPrice": 60000,
+            "maxPrice": 70000
+        },
+        {
+            "name": "70000-80000",
+            "minPrice": 70000,
+            "maxPrice": 80000
+        },
+        {
+            "name": "80000-90000",
+            "minPrice": 80000,
+            "maxPrice": 90000
+        },
+        {
+            "name": "90000-100000",
+            "minPrice": 90000,
+            "maxPrice": 100000
+        }
+    ],
+    "fuel-type": [
+        {
+            "id": "petrol",
+            "name": "Petrol"
+        },
+        {
+            "id": "diesel",
+            "name": "Diesel"
+        },
+        {
+            "id": "electric",
+            "name": "Electric"
+        },
+        {
+            "id": "hybrid",
+            "name": "Hybrid"
+        },
+        {
+            "id": "plug-in-hybrid",
+            "name": "Plug-in Hybrid"
+        },
+        {
+            "id": "cng",
+            "name": "CNG"
+        }
+    ],
+    "seating-capacity": [
+        {
+            "id": "2",
+            "name": "2"
+        },
+        {
+            "id": "4",
+            "name": "4"
+        },
+        {
+            "id": "5",
+            "name": "5"
+        },
+        {
+            "id": "6",
+            "name": "6"
+        },
+        {
+            "id": "7",
+            "name": "7"
+        }
+    ]
+}
